@@ -1,0 +1,1 @@
+module.exports.homepageUrl = 'https://www.delta.com/';
